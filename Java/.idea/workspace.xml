@@ -1,41 +1,173 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="941ff15d-a4a3-4f0a-9d36-201f33a57b78" name="Default Changelist" comment="" />
+    <list default="true" id="941ff15d-a4a3-4f0a-9d36-201f33a57b78" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Java/.idea/Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/ByteShortInt/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/ByteShortInt/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/ByteShortInt/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/ByteShortInt/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/ByteShortInt/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/ByteShortInt/FloatAndDouble.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/ByteShortInt/out/production/FloatAndDouble/com/leopuglia/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/ByteShortInt/src/com/leopuglia/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Class/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Class/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Class/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Class/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Class/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Class/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Class/Classes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Class/out/production/Classes/META-INF/Classes.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Class/out/production/Classes/com/leopuglia/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Class/out/production/Classes/com/leopuglia/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Class/out/production/Classes/com/leopuglia/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Class/out/production/Classes/com/leopuglia/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Class/out/production/Classes/com/leopuglia/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Class/out/production/Classes/com/leopuglia/VipPerson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Class/src/com/leopuglia/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Class/src/com/leopuglia/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Class/src/com/leopuglia/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Class/src/com/leopuglia/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Class/src/com/leopuglia/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Class/src/com/leopuglia/VipPerson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/HelloWorld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/HelloWorld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/HelloWorld/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/HelloWorld/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/HelloWorld/out/production/HelloWorld/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/HelloWorld/src/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/MethodOverloading/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/MethodOverloading/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/MethodOverloading/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/MethodOverloading/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/MethodOverloading/MethodOverloading.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/MethodOverloading/out/production/MethodOverloading/com/leopuglia/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/MethodOverloading/src/com/leopuglia/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Methods/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Methods/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Methods/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Methods/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Methods/Methods.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Methods/src/com/leopuglia/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/ReadingUserInput/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/ReadingUserInput/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/ReadingUserInput/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/ReadingUserInput/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/ReadingUserInput/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/ReadingUserInput/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/ReadingUserInput/ReadingUserInput.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/ReadingUserInput/out/production/ReadingUserInput/com/leopuglia/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/ReadingUserInput/src/com/leopuglia/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/SecondsAndMinutesChallenge/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/SecondsAndMinutesChallenge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/SecondsAndMinutesChallenge/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/SecondsAndMinutesChallenge/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/SecondsAndMinutesChallenge/out/production/SecondsAndMinutesChallenge/com/timbuchalka/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/SecondsAndMinutesChallenge/src/com/timbuchalka/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/SumDigit/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/SumDigit/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/SumDigit/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/SumDigit/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/SumDigit/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/SumDigit/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/SumDigit/SumDigit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/SumDigit/out/production/SumDigit/com/leopuglia/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/SumDigit/src/com/leopuglia/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Switch/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Switch/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Switch/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Switch/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Switch/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Switch/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Switch/Switch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Switch/out/production/Switch/com/leopuglia/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Switch/src/com/leopuglia/Main.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Java" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ByteShortInt/src/com/leopuglia/Main.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MethodOverloading/src/com/leopuglia/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+            <state relative-caret-position="495">
+              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Methods/src/com/leopuglia/Main.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ReadingUserInput/src/com/leopuglia/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="260" />
-    <option name="y" value="26" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Classes/src/com/leopuglia/Point.java" />
+        <option value="$PROJECT_DIR$/Classes/src/com/leopuglia/Carpet.java" />
+        <option value="$PROJECT_DIR$/Classes/src/com/leopuglia/ComplexNumber.java" />
+        <option value="$PROJECT_DIR$/Inheritance/src/Main.java" />
+        <option value="$PROJECT_DIR$/Class/src/com/leopuglia/VipPerson.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1920" />
+    <option name="width" value="790" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -43,14 +175,68 @@
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="MethodOverloading" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="MethodOverloading" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="MethodOverloading" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="MethodOverloading" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="leopuglia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="ReadingUserInput" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="ReadingUserInput" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="ReadingUserInput" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="ReadingUserInput" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="leopuglia" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548400372899" />
@@ -58,7 +244,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -83,27 +269,28 @@
       <option name="presentableId" value="Default" />
       <updated>1548399706046</updated>
       <workItem from="1548399711243" duration="750000" />
+      <workItem from="1557320998070" duration="616000" />
+      <workItem from="1557449715049" duration="4914000" />
+      <workItem from="1558474140300" duration="2959000" />
+      <workItem from="1558490862786" duration="133000" />
+      <workItem from="1558491025394" duration="28000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="750000" />
+    <option name="totallyTimeSpent" value="9400000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="26" width="1400" height="1000" extended-state="0" />
+    <frame x="1920" y="0" width="1600" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963072" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49886104" visible="true" weight="0.2117117" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5011389" side_tool="true" weight="0.2577548" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -111,28 +298,157 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Switch/src/com/leopuglia/Main.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Inheritance/src/test.java" />
+    <entry file="file://$PROJECT_DIR$/Class/src/com/leopuglia/ComplexNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding>
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inheritance/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/src/com/leopuglia/Wall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="53" column="1" lean-forward="true" selection-end-line="53" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/src/com/leopuglia/VipPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="36" />
+          <folding>
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/src/com/leopuglia/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <element signature="e#63#64#0" expanded="true" />
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/src/com/leopuglia/Carpet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="30" selection-start-line="30" selection-end-line="43" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/src/com/leopuglia/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/src/com/leopuglia/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="49" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/src/com/leopuglia/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/src/com/leopuglia/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="23" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/src/com/leopuglia/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="13" lean-forward="true" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByteShortInt/src/com/leopuglia/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/MethodOverloading/src/com/leopuglia/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        <state relative-caret-position="495">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Methods/src/com/leopuglia/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadingUserInput/src/com/leopuglia/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
         </state>
       </provider>
     </entry>
