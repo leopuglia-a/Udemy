@@ -1,6 +1,8 @@
 # deque - double-ended queue - fila de duas pontas
 # https://www.geeksforgeeks.org/deque-in-python/
 
+from collections import deque
+
 class Deck:
     def __init__(self):
         self.len = 0
@@ -47,3 +49,14 @@ d.pop_back()
 print(d.deck)
 d.pop_front()
 print(d.deck)
+
+c = deque()
+c.append(1)
+c.appendleft(2)
+c.append(3)
+c.appendleft(4)
+print(c)
+c.pop()
+print(c)
+c.popleft()
+print(c)
