@@ -4,5 +4,5 @@ def fat(n):
 	return n * fat (n - 1)
 
 def fib(n):
-	if (n == 1 or n == 2) 
+	if (n == 1 or n == 2):
 		return 1
